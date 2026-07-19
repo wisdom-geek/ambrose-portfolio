@@ -15,7 +15,7 @@
       "name": "ambrose-portfolio",
       "description": "This is my final portfolio",
       "url": "https://github.com/wisdom-geek/ambrose-portfolio",
-      "homepage": null,
+      "homepage": "https://ambrose-portfolio-pearl.vercel.app",
       "language": "TypeScript",
       "stargazers_count": 0,
       "forks_count": 0,
