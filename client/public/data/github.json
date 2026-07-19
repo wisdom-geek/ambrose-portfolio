@@ -1,0 +1,80 @@
+{
+  "user": {
+    "login": "wisdom-geek",
+    "name": "Wisdom-geek",
+    "bio": null,
+    "avatar_url": "https://avatars.githubusercontent.com/u/137315663?v=4",
+    "public_repos": 22,
+    "followers": 2,
+    "following": 3,
+    "created_at": "2023-06-21T15:43:19Z"
+  },
+  "repos": [
+    {
+      "id": 1305646795,
+      "name": "ambrose-portfolio",
+      "description": "This is my final portfolio",
+      "url": "https://github.com/wisdom-geek/ambrose-portfolio",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": []
+    },
+    {
+      "id": 978884743,
+      "name": "The-Agency-Portfolio",
+      "description": null,
+      "url": "https://github.com/wisdom-geek/The-Agency-Portfolio",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": []
+    },
+    {
+      "id": 978881475,
+      "name": "The-Agency",
+      "description": null,
+      "url": "https://github.com/wisdom-geek/The-Agency",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": []
+    },
+    {
+      "id": 828644822,
+      "name": "PluraSaas",
+      "description": "This is an saas project",
+      "url": "https://github.com/wisdom-geek/PluraSaas",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "topics": []
+    },
+    {
+      "id": 827987799,
+      "name": "UrbanCart",
+      "description": "This is an Ecommerce webapp with more features",
+      "url": "https://github.com/wisdom-geek/UrbanCart",
+      "homepage": null,
+      "language": "HTML",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "topics": []
+    },
+    {
+      "id": 827548496,
+      "name": "Health-care",
+      "description": "This is an Health Care app ",
+      "url": "https://github.com/wisdom-geek/Health-care",
+      "homepage": null,
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": []
+    }
+  ]
+}
