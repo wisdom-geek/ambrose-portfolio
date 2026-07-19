@@ -4,7 +4,7 @@
 
 const USERNAME = "wisdom-geek"; // matches GITHUB_USERNAME in your component
 const TOKEN = process.env.GH_TOKEN; // provided automatically by Actions
-const OUT_PATH = "public/data/github.json";
+const OUT_PATH = "client/public/data/github.json";
 
 const headers = {
   Accept: "application/vnd.github+json",
@@ -50,7 +50,7 @@ async function main() {
   }));
 
   const fs = await import("node:fs/promises");
-  await fs.mkdir("public/data", { recursive: true });
+  await fs.mkdir("client/public/data", { recursive: true });
   await fs.writeFile(OUT_PATH, JSON.stringify({ user, repos }, null, 2));
   console.log(`Wrote ${repos.length} repos to ${OUT_PATH}`);
 }
